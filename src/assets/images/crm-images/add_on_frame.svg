@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="351.401" height="371.198" viewBox="0 0 351.401 371.198">
+  <defs>
+    <filter id="Rectangle_304" x="0" y="0" width="351.401" height="351.401" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#2a464e" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_308" x="141.492" y="302.781" width="68.417" height="68.417" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#2a464e" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_305" x="0" y="9.599" width="351.401" height="351.401" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#2a464e" flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="add_on_feature_frame" data-name="add on feature frame" transform="translate(5122.576 -8330.941)">
+    <g transform="matrix(1, 0, 0, 1, -5122.58, 8330.94)" filter="url(#Rectangle_304)">
+      <path id="Rectangle_304-2" data-name="Rectangle 304" d="M6,0H217.75a18,18,0,0,1,18,18V229.75a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(9 175.7) rotate(-45)" fill="#2a464e"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -5122.58, 8330.94)" filter="url(#Rectangle_308)">
+      <path id="Rectangle_308-2" data-name="Rectangle 308" d="M.891,0h0A34.759,34.759,0,0,1,35.65,34.759v0a.891.891,0,0,1-.891.891H5.05A5.05,5.05,0,0,1,0,30.6V.891A.891.891,0,0,1,.891,0Z" transform="translate(150.49 336.99) rotate(-45)" fill="#2a464e"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -5122.58, 8330.94)" filter="url(#Rectangle_305)">
+      <path id="Rectangle_305-2" data-name="Rectangle 305" d="M6,0H225.75a10,10,0,0,1,10,10V228.75a7,7,0,0,1-7,7H6a6,6,0,0,1-6-6V6A6,6,0,0,1,6,0Z" transform="translate(9 185.3) rotate(-45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

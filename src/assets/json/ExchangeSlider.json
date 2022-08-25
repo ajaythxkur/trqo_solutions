@@ -1,0 +1,45 @@
+{
+    "ExchangeSlideData": [
+
+        {
+            "icon": "slide-icon-1.svg",
+            "title": "Highly Secure",
+            "para": "We developed a Highly Secure Exchange with SHA-256 bit encryption that is Used by Banks and Stock Exchanges"
+        },
+
+
+        {
+            "icon": "slide-icon-2.svg",
+            "title": "Powerful match Engine",
+            "para": "Our Highly secure Order Matching System can Match 10000 Orders/Second which is the fastest Order Matching System Ever"
+        },
+
+
+        {
+            "icon": "slide-icon-3.svg",
+            "title": "Highly scalable",
+            "para": "We have a scalable System you can Add multiple Features in your exchange Within the very Low time"
+        },
+
+        {
+            "icon": "slide-icon-4.svg",
+            "title": "P2P Exchange",
+            "para": "Teqo Solution develop p2p digital currency exchanges for businesses & investors. We help during the development journey from strategy making to technology selection."
+        },
+
+        {
+            "icon": "slide-icon-5.svg",
+            "title": "White-lable Exchange",
+            "para": "Exchange business-startups can take our variety of white-label crypto exchange solutions. We also develop crypto exchange using Binance, Uniswap, coinbase, and clone-script."
+        },
+
+        {
+            "icon": "slide-icon-6.svg",
+            "title": "Mobile Exchange",
+            "para": "Teqo Solution is known for innovative mobile solutions. In either case, we develop fully customizable, secure & user-friendly mobile crypto exchange solutions."
+        }
+
+
+
+    ]
+}

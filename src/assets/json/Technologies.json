@@ -1,0 +1,58 @@
+{
+    "TechnologiesData": [{
+            "image": "1.png",
+            "name": "Node.js -V 16.13.2"
+        },
+
+        {
+            "image": "2.png",
+            "name": "Vue.js (Fronted Technology)"
+        },
+
+        {
+            "image": "3.png",
+            "name": "MySQL (Database)"
+        },
+
+        {
+            "image": "4.png",
+            "name": "MongoDB"
+        },
+
+        {
+            "image": "5.png",
+            "name": "Blockchain Used"
+        },
+
+        {
+            "image": "6.png",
+            "name": "Testing Tools"
+        },
+
+        {
+            "image": "7.png",
+            "name": "3rd Party Integration"
+        },
+
+        {
+            "image": "8.png",
+            "name": "Laravel 8.0 PHP Framework (Web server, APIs)"
+        },
+
+        {
+            "image": "9.png",
+            "name": "Project Management"
+        },
+
+        {
+            "image": "10.png",
+            "name": "Mobile App Development"
+        },
+
+
+        {
+            "image": "11.png",
+            "name": "Product development"
+        }
+    ]
+}

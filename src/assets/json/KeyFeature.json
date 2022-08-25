@@ -1,0 +1,51 @@
+{
+    "FeatureData": [{
+            "title": "1,00000 transactions per",
+            "sub_title": "second",
+            "para": "Implement the best platform to provide higher TPS. The higher the TPS is providing the better trading experiences."
+        },
+
+        {
+            "title": "Custom User",
+            "sub_title": "interface",
+            "para": "We provide you a totally custom User interface which will be only developed for your exchange and own the rights for that user interface."
+        },
+
+
+        {
+            "title": "Powerful Trade Match",
+            "sub_title": "Engine",
+            "para": "Meet our powerful trade engine which helps you to match real time orders and use machine learning to trade to the orders superfast."
+        },
+
+        {
+            "title": "Highly Secured",
+            "sub_title": "Firewalls",
+            "para": "The exchange developed by us is protected with highly secure firewalls."
+        },
+
+        {
+            "title": "Multi-layer",
+            "sub_title": "securities",
+            "para": "We develop an exchange with additional security layers- SSL implementation, two-factor authentication. It assures a limit for fund withdrawals, fraud prevention, secure login, and encrypted user access. "
+        },
+
+        {
+            "title": "Automatic",
+            "sub_title": "KYC",
+            "para": "We use Our Advance KYC Tools for verify user details to make sure it will help you complete your exchange due diligence with a hustle free process. "
+        },
+
+        {
+            "title": "Bot-enabled Support",
+            "sub_title": "centre",
+            "para": "Provide customer support to your customers with the bot enabled support centre which use machine learning to answer the support enquiries seamless"
+        },
+
+        {
+            "title": "Referral and Reward",
+            "sub_title": "program",
+            "para": "The implementation of a reward & referrals program enables the accurate distribution of rewards and commissions."
+        }
+    ]
+}

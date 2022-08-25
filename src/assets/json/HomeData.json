@@ -1,0 +1,119 @@
+{
+  "WorprogresskData": [
+    {
+      "image": "call_icon.png",
+      "heading": "Step 1: Team Call",
+      "para": "To be on client expectations, we arrange a team meeting that brings new ideas. We have a team of experts who follow ideal practices and methodologies."
+    },
+    {
+      "image": "support.png",
+      "heading": "Step 2: Quick decision-makers",
+      "para": "We strategize a complete work process to deliver high- caliber outputs. We do a check on many things to drive productive results. Hence, we use agile technology andstrategy."
+    },
+    {
+      "image": "friendly.png",
+      "heading": "Step 3: User Oriented Strategy",
+      "para": "Our approach is based on making digital solutions forspecific requirements. We reduce the business complexitiesand promote cooperation. We are skilled to make a betteruser experience and achieve quality results."
+    },
+    {
+      "image": "24_hours.png",
+      "heading": "Step 4: 24/7 Availability",
+      "para": "We have been providing top-notch customer support services. Tego never compromises over quality to be a businessmilestone for all our customers."
+    }
+  ],
+  "FeatureData": [
+    {
+      "image": "feature_1.png",
+      "heading": "Transparent Deals",
+      "description": "We dissolve transparency by providing upfront prices for every transaction. We treat our customers separately and bring what they want. In short, we are budgeted digital partners for companies and individuals."
+    },
+    {
+      "image": "feature_2.png",
+      "heading": "Certified Team",
+      "description": "Our team is not only experienced in technology but we are certified. We are knowledge-rich in providing desired project deliveries."
+    },
+    {
+      "image": "feature_3.png",
+      "heading": "Cooperative",
+      "description": "All of our employees are cooperative. However, we always listen to our clients make the necessary changes. Tego is committed to bringing new things because we like to adapt to new technologies."
+    },
+    {
+      "image": "feature_4.png",
+      "heading": "Goal-Oriented",
+      "description": "We are goal-oriented. But more than that, we are working on the latest innovations that make us stand in the crowded world."
+    }
+  ],
+  "AchievementsData": [{
+    "image": "achievements_1.png",
+    "count": "8x",
+    "description": "INCREASE IN REVENUE"
+},
+{
+    "image": "achievements_2.png",
+    "count": "80%",
+    "description": "INCREASE IN PRODUCTIVITY"
+},
+{
+    "image": "achievements_3.png",
+    "count": "4x",
+    "description": " FASTER SALES CYCLE"
+},
+{
+    "image": "achievements_4.png",
+    "count": "20X FASTER",
+    "description": "IN GENERATING PROJECTS"
+},
+{
+    "image": "achievements_5.png",
+    "count": "95%",
+    "description": "AUTOMATION OF TASKS"
+}
+],
+"TestimonialsData": [{
+    "image": "testimonial_1.png",
+    "heading": "Jacob",
+    "description": "Here I will tell you about my story with Teqo. I came here because of the company’s reputation in software and website development. When I expanded the project to Blockchain, they were with me at every step. I have recommended the company many times and I would love to do it again. "
+}
+],
+"TechnologiesData": [{
+    "image": "tech-1.png",
+    "title": "HTML 5"
+},
+{
+    "image": "tech-2.png",
+    "title": "Bootstrap"
+},
+{
+    "image": "tech-3.png",
+    "title": "PHP Mysql"
+},
+{
+    "image": "tech-4.png",
+    "title": "Sqlite"
+},
+{
+    "image": "tech-5.png",
+    "title": "Css 3"
+},
+{
+    "image": "tech-6.png",
+    "title": "Android 3"
+},
+{
+    "image": "tech-7.png",
+    "title": "My Sql"
+},
+{
+    "image": "tech-8.png",
+    "title": "Node js"
+},
+{
+    "image": "tech-9.png",
+    "title": "Jquery"
+},
+{
+    "image": "tech-10.png",
+    "title": "Mongo DB"
+}
+]
+}

@@ -1,0 +1,35 @@
+{
+    "SecurityData": [{
+            "title": "Anti-denial of service (DOS)",
+            "para": "It protects the exchange from multiple requests sent to the server."
+        },
+
+        {
+            "title": "Jail Login",
+            "para": "It deters the multiple failed attempts for a specific amount of time. As a result, it avoids unusual login attempts."
+        },
+
+        {
+            "title": "HTTP Authentication",
+            "para": "This secures HTTP authentication tokens for user approvals."
+        },
+
+        {
+            "title": "Server-Side Request forgery protection",
+            "para": "It keeps the system safe and avoids attacks that are sent from pregnable web sources."
+        },
+
+        {
+            "title": "HTTP Parameter Pollution Protection",
+            "para": "Prevent the web attacks that create HTTP getting the information."
+        },
+
+        {
+            "title": "Anti-distributed denial of service",
+            "para": "Protects the exchange in case an unexpected amount of traffic is coming from different sources."
+        }
+
+
+
+    ]
+}
